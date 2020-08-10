@@ -1,0 +1,3 @@
+rootProject.name='ReleaseTest'
+include ':app'
+include ':moduletest'
